@@ -8,21 +8,21 @@
 
 * **[Vídeos e PPT](#videos-e-ppt)**  
 
-* **[Artigos](#papers)**  
+* **[Artigos](#artigos)**  
 
-* **[Tutorials](#tutorials)**  
+* **[Tutorials](#tutoriais)**  
 
-* **[Principais pesquisadores](#researchers)**  
+* **[Principais pesquisadores](#principais-pesquisadores)**  
 
 * **[WebSites](#websites)**  
 
-* **[Banco de Dados para Pesquisa de Deep Learning](#datasets)**  
+* **[Banco de Dados para Pesquisa de Deep Learning](#Banco-de-Dados-para-Pesquisa-de-Deep-Learning)**  
 
 * **[Frameworks](#frameworks)**  
 
-* **[Outros](#miscellaneous)**  
+* **[Outros](#outros)**  
 
-* **[Contribuições](#contributing)**  
+* **[Contribuições](#contribuições)**  
 
 
 ### Livros Online Gratuitos
@@ -79,7 +79,7 @@
 16.  [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) by Steve Jurvetson (and panel) at VLAB in Stanford. 
 17. [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) by Leo Isikdogan at Motorola Mobility HQ
 
-### Papers
+### Artigos
 *You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
 
 1.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
@@ -122,7 +122,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 
 
 
-### Tutorials
+### Tutoriais
 
 1.  [UFLDL Tutorial 1](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 2.  [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
@@ -140,7 +140,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 13. [TensorFlow Python Notebooks](https://github.com/aymericdamien/TensorFlow-Examples)
 14. [Keras and Lasagne Deep Learning Tutorials](https://github.com/Vict0rSch/deep_learning)
 
-## Researchers
+## Principais pesquisadores
 
 1. [Aaron Courville](http://aaroncourville.wordpress.com)
 2. [Abdel-rahman Mohamed](http://www.cs.toronto.edu/~asamir/)
@@ -238,6 +238,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 94. [ Yoshua Bengio ](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
 95. [ Yotaro Kubo ](http://yota.ro/)
 96. [ Youzhi (Will) Zou](http://ai.stanford.edu/~wzou)
+97. [ Murilo Gleyson Gazzola ](http://gbdi.icmc.usp.br)
 
 
 ### WebSites
@@ -267,7 +268,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 23.  [www.mpi-inf.mpg.de/departments/computer-vision...](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/)
 24.  [Deep Learning News](http://news.startup.ml/)
 
-### Datasets
+### Banco de Dados para Pesquisa de Deep Learning
 
 1.  [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
 2.  [Google House Numbers](http://ufldl.stanford.edu/housenumbers/) from street view
@@ -430,7 +431,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 40.  [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle)
 
 
-### Miscellaneous
+### Outros
 
 1.  [Google Plus - Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
 2.  [Caffe Webinar](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer&amp;searchItems=&amp;sessionTopic=&amp;sessionEvent=4&amp;sessionYear=2014&amp;sessionFormat=&amp;submit=&amp;select=+)
