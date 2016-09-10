@@ -1,4 +1,4 @@
-# Bem Vindo ao Tutorial de Deep Learning (DL) ou Aprendizagem Profunda
+# Bem vindo ao Tutorial de Deep Learning (DL) ou Aprendizagem Profunda
 
 ## Tabela de Conteúdo
 
@@ -25,7 +25,7 @@
 * **[Contribuições](#contributing)**  
 
 
-### Free Online Books
+### Livros Online Gratuitos
 
 1.  [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
 2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
