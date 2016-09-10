@@ -1,4 +1,4 @@
-# Bem vindo ao Tutorial de Deep Learning (DL) ou Aprendizagem Profunda
+# Bem vindo ao Tutorial de Deep Learning (DL)
 
 ## Tabela de Conteúdo
 
