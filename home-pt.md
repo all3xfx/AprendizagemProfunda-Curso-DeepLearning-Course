@@ -2,11 +2,11 @@
 
 ## Tabela de Conteúdo
 
-* **[Livros Online Gratuitos](#free-online-books)**  
+* **[Livros Online Gratuitos](#livros-online-gratuitos)**  
 
-* **[Cursos](#courses)**  
+* **[Cursos](#cursos)**  
 
-* **[Vídeos e PPT](#videos-and-lectures)**  
+* **[Vídeos e PPT](#videos-e-ppt)**  
 
 * **[Artigos](#papers)**  
 
@@ -36,7 +36,7 @@
 7.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 8.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
  
-### Courses
+### Cursos
 
 1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014)
 2.  [Machine Learning - Caltech](http://work.caltech.edu/lectures.html) by Yaser Abu-Mostafa (2012-2014)
@@ -59,7 +59,7 @@
 17.  [Statistical Machine Learning - CMU](https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r) by Prof. Larry Wasserman
 18.  [Deep Learning Course](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) by Yann LeCun (2016)
 
-### Videos and Lectures
+### Videos e PPT
 
 1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil
 2.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) By Andrew Ng
